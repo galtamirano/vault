@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/hashicorp/vault/apidoc/cmd"
+	"github.com/hashicorp/vault-apidoc/cmd"
 )
 
 func main() {

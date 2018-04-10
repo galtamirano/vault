@@ -1,7 +1,7 @@
 package vault
 
 import (
-	"github.com/hashicorp/vault/apidoc/apidoc"
+	"github.com/hashicorp/vault-apidoc/apidoc"
 	"github.com/hashicorp/vault/logical/framework"
 )
 
